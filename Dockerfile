@@ -1,5 +1,5 @@
 # Use an official Node.js image
-FROM node:18-bullseye
+FROM node:22-bullseye
 
 # Install Python and pip
 RUN apt-get update && apt-get install -y python3 python3-pip
