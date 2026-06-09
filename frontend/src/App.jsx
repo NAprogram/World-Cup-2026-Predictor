@@ -126,7 +126,7 @@ function App() {
                 <h1 className="text-7xl font-black text-black uppercase tracking-tighter drop-shadow-[4px_4px_0px_rgba(255,255,255,1)]">
                 FIFA World Cup 26
                 </h1>
-                <p className="bg-black text-lime-400 inline-block px-3 py-1 text-xl font-bold uppercase tracking-widest mt-2 border-2 border-white">Official Simulator</p>
+                <p className="bg-black text-lime-400 inline-block px-3 py-1 text-xl font-bold uppercase tracking-widest mt-2 border-2 border-white">Simulator</p>
             </div>
             <div className="text-right flex flex-col items-end gap-3">
                 <button 
