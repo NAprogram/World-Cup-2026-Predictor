@@ -1,0 +1,1538 @@
+{
+    "Mexico": [
+        {
+            "name": "Santiago Giménez",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 20
+        },
+        {
+            "name": "Hirving Lozano",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 30
+        },
+        {
+            "name": "Edson Álvarez",
+            "position": "MF",
+            "score_weight": 15,
+            "assist_weight": 55
+        },
+        {
+            "name": "Johan Vásquez",
+            "position": "DF",
+            "score_weight": 10,
+            "assist_weight": 20
+        },
+        {
+            "name": "Guillermo Ochoa",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "South Africa": [
+        {
+            "name": "Percy Tau",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 25
+        },
+        {
+            "name": "Lyle Foster",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 15
+        },
+        {
+            "name": "Themba Zwane",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 60
+        },
+        {
+            "name": "Mothobi Mvala",
+            "position": "DF",
+            "score_weight": 10,
+            "assist_weight": 20
+        },
+        {
+            "name": "Ronwen Williams",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Korea Republic": [
+        {
+            "name": "Son Heung-min",
+            "position": "FW",
+            "score_weight": 70,
+            "assist_weight": 40
+        },
+        {
+            "name": "Hwang Hee-chan",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 30
+        },
+        {
+            "name": "Lee Kang-in",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 60
+        },
+        {
+            "name": "Kim Min-jae",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Jo Hyeon-woo",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Czechia": [
+        {
+            "name": "Patrik Schick",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 15
+        },
+        {
+            "name": "Tomáš Souček",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 40
+        },
+        {
+            "name": "Antonín Barák",
+            "position": "MF",
+            "score_weight": 25,
+            "assist_weight": 50
+        },
+        {
+            "name": "Vladimír Coufal",
+            "position": "DF",
+            "score_weight": 10,
+            "assist_weight": 35
+        },
+        {
+            "name": "Jindřich Staněk",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Canada": [
+        {
+            "name": "Jonathan David",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 20
+        },
+        {
+            "name": "Alphonso Davies",
+            "position": "DF",
+            "score_weight": 25,
+            "assist_weight": 60
+        },
+        {
+            "name": "Stephen Eustáquio",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 50
+        },
+        {
+            "name": "Cyle Larin",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 15
+        },
+        {
+            "name": "Milan Borjan",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Switzerland": [
+        {
+            "name": "Breel Embolo",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 20
+        },
+        {
+            "name": "Xherdan Shaqiri",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 65
+        },
+        {
+            "name": "Granit Xhaka",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 55
+        },
+        {
+            "name": "Manuel Akanji",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Yann Sommer",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Qatar": [
+        {
+            "name": "Almoez Ali",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 20
+        },
+        {
+            "name": "Akram Afif",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 50
+        },
+        {
+            "name": "Hassan Al-Haydos",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 55
+        },
+        {
+            "name": "Boualem Khoukhi",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Saad Al-Sheeb",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Bosnia and Herzegovina": [
+        {
+            "name": "Edin Džeko",
+            "position": "FW",
+            "score_weight": 70,
+            "assist_weight": 25
+        },
+        {
+            "name": "Ermedin Demirović",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 20
+        },
+        {
+            "name": "Rade Krunić",
+            "position": "MF",
+            "score_weight": 25,
+            "assist_weight": 50
+        },
+        {
+            "name": "Sead Kolašinac",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 35
+        },
+        {
+            "name": "Ibrahim Šehić",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Brazil": [
+        {
+            "name": "Vinícius Júnior",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 55
+        },
+        {
+            "name": "Rodrygo",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 45
+        },
+        {
+            "name": "Lucas Paquetá",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 65
+        },
+        {
+            "name": "Marquinhos",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 15
+        },
+        {
+            "name": "Alisson",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Morocco": [
+        {
+            "name": "Youssef En-Nesyri",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 15
+        },
+        {
+            "name": "Hakim Ziyech",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 65
+        },
+        {
+            "name": "Sofyan Amrabat",
+            "position": "MF",
+            "score_weight": 10,
+            "assist_weight": 45
+        },
+        {
+            "name": "Achraf Hakimi",
+            "position": "DF",
+            "score_weight": 25,
+            "assist_weight": 55
+        },
+        {
+            "name": "Yassine Bounou",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Haiti": [
+        {
+            "name": "Frantzdy Pierrot",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 15
+        },
+        {
+            "name": "Duckens Nazon",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 20
+        },
+        {
+            "name": "Derrick Etienne",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 50
+        },
+        {
+            "name": "Ricardo Adé",
+            "position": "DF",
+            "score_weight": 10,
+            "assist_weight": 20
+        },
+        {
+            "name": "Johny Placide",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Scotland": [
+        {
+            "name": "John McGinn",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 50
+        },
+        {
+            "name": "Scott McTominay",
+            "position": "MF",
+            "score_weight": 50,
+            "assist_weight": 30
+        },
+        {
+            "name": "Ché Adams",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 20
+        },
+        {
+            "name": "Andrew Robertson",
+            "position": "DF",
+            "score_weight": 10,
+            "assist_weight": 60
+        },
+        {
+            "name": "Angus Gunn",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "United States": [
+        {
+            "name": "Christian Pulisic",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 55
+        },
+        {
+            "name": "Folarin Balogun",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 20
+        },
+        {
+            "name": "Weston McKennie",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 45
+        },
+        {
+            "name": "Antonee Robinson",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 40
+        },
+        {
+            "name": "Matt Turner",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Paraguay": [
+        {
+            "name": "Miguel Almirón",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 55
+        },
+        {
+            "name": "Julio Enciso",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 35
+        },
+        {
+            "name": "Mathías Villasanti",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 45
+        },
+        {
+            "name": "Gustavo Gómez",
+            "position": "DF",
+            "score_weight": 25,
+            "assist_weight": 15
+        },
+        {
+            "name": "Carlos Coronel",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Australia": [
+        {
+            "name": "Mitchell Duke",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 20
+        },
+        {
+            "name": "Craig Goodwin",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 60
+        },
+        {
+            "name": "Jackson Irvine",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 30
+        },
+        {
+            "name": "Harry Souttar",
+            "position": "DF",
+            "score_weight": 30,
+            "assist_weight": 15
+        },
+        {
+            "name": "Mathew Ryan",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Türkiye": [
+        {
+            "name": "Hakan Çalhanoğlu",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 65
+        },
+        {
+            "name": "Cengiz Ünder",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 45
+        },
+        {
+            "name": "Arda Güler",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 55
+        },
+        {
+            "name": "Merih Demiral",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 15
+        },
+        {
+            "name": "Uğurcan Çakır",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Germany": [
+        {
+            "name": "Jamal Musiala",
+            "position": "MF",
+            "score_weight": 55,
+            "assist_weight": 65
+        },
+        {
+            "name": "Niclas Füllkrug",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 20
+        },
+        {
+            "name": "Florian Wirtz",
+            "position": "MF",
+            "score_weight": 50,
+            "assist_weight": 60
+        },
+        {
+            "name": "Antonio Rüdiger",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Marc-André ter Stegen",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Curaçao": [
+        {
+            "name": "Leandro Bacuna",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 55
+        },
+        {
+            "name": "Jürgen Locadia",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 20
+        },
+        {
+            "name": "Juninho Bacuna",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 50
+        },
+        {
+            "name": "Cuco Martina",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 30
+        },
+        {
+            "name": "Eloy Room",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Côte d'Ivoire": [
+        {
+            "name": "Sébastien Haller",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 20
+        },
+        {
+            "name": "Franck Kessié",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 50
+        },
+        {
+            "name": "Nicolas Pépé",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 45
+        },
+        {
+            "name": "Serge Aurier",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 45
+        },
+        {
+            "name": "Yahia Fofana",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Ecuador": [
+        {
+            "name": "Enner Valencia",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 25
+        },
+        {
+            "name": "Moisés Caicedo",
+            "position": "MF",
+            "score_weight": 25,
+            "assist_weight": 55
+        },
+        {
+            "name": "Kendry Páez",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 50
+        },
+        {
+            "name": "Pervis Estupiñán",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 50
+        },
+        {
+            "name": "Alexander Domínguez",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Netherlands": [
+        {
+            "name": "Cody Gakpo",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 45
+        },
+        {
+            "name": "Xavi Simons",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 55
+        },
+        {
+            "name": "Frenkie de Jong",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 65
+        },
+        {
+            "name": "Virgil van Dijk",
+            "position": "DF",
+            "score_weight": 25,
+            "assist_weight": 20
+        },
+        {
+            "name": "Bart Verbruggen",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Japan": [
+        {
+            "name": "Kaoru Mitoma",
+            "position": "MF",
+            "score_weight": 50,
+            "assist_weight": 55
+        },
+        {
+            "name": "Takumi Minamino",
+            "position": "MF",
+            "score_weight": 55,
+            "assist_weight": 45
+        },
+        {
+            "name": "Wataru Endo",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 40
+        },
+        {
+            "name": "Takehiro Tomiyasu",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 25
+        },
+        {
+            "name": "Zion Suzuki",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Tunisia": [
+        {
+            "name": "Youssef Msakni",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 40
+        },
+        {
+            "name": "Ellyes Skhiri",
+            "position": "MF",
+            "score_weight": 25,
+            "assist_weight": 50
+        },
+        {
+            "name": "Aïssa Laïdouni",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 45
+        },
+        {
+            "name": "Montassar Talbi",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Aymen Dahmen",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Sweden": [
+        {
+            "name": "Alexander Isak",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 25
+        },
+        {
+            "name": "Dejan Kulusevski",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 60
+        },
+        {
+            "name": "Viktor Gyökeres",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 30
+        },
+        {
+            "name": "Victor Lindelöf",
+            "position": "DF",
+            "score_weight": 10,
+            "assist_weight": 20
+        },
+        {
+            "name": "Robin Olsen",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Belgium": [
+        {
+            "name": "Romelu Lukaku",
+            "position": "FW",
+            "score_weight": 70,
+            "assist_weight": 20
+        },
+        {
+            "name": "Kevin De Bruyne",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 75
+        },
+        {
+            "name": "Leandro Trossard",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 45
+        },
+        {
+            "name": "Jan Vertonghen",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Koen Casteels",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Egypt": [
+        {
+            "name": "Mohamed Salah",
+            "position": "FW",
+            "score_weight": 70,
+            "assist_weight": 50
+        },
+        {
+            "name": "Mostafa Mohamed",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 20
+        },
+        {
+            "name": "Trezeguet",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 40
+        },
+        {
+            "name": "Ahmed Hegazi",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 15
+        },
+        {
+            "name": "Mohamed El Shenawy",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Iran": [
+        {
+            "name": "Mehdi Taremi",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 40
+        },
+        {
+            "name": "Sardar Azmoun",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 30
+        },
+        {
+            "name": "Alireza Jahanbakhsh",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 50
+        },
+        {
+            "name": "Ehsan Hajsafi",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 45
+        },
+        {
+            "name": "Alireza Beiranvand",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "New Zealand": [
+        {
+            "name": "Chris Wood",
+            "position": "FW",
+            "score_weight": 70,
+            "assist_weight": 15
+        },
+        {
+            "name": "Elijah Just",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 45
+        },
+        {
+            "name": "Joe Bell",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 50
+        },
+        {
+            "name": "Liberato Cacace",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 40
+        },
+        {
+            "name": "Max Crocombe",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Spain": [
+        {
+            "name": "Álvaro Morata",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 25
+        },
+        {
+            "name": "Lamine Yamal",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 60
+        },
+        {
+            "name": "Pedri",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 65
+        },
+        {
+            "name": "Rodri",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 55
+        },
+        {
+            "name": "Unai Simón",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Cabo Verde": [
+        {
+            "name": "Ryan Mendes",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 35
+        },
+        {
+            "name": "Garry Rodrigues",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 30
+        },
+        {
+            "name": "Jamiro Monteiro",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 50
+        },
+        {
+            "name": "Roberto Lopes",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Vozinha",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Saudi Arabia": [
+        {
+            "name": "Salem Al-Dawsari",
+            "position": "MF",
+            "score_weight": 55,
+            "assist_weight": 45
+        },
+        {
+            "name": "Saleh Al-Shehri",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 25
+        },
+        {
+            "name": "Mohamed Kanno",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 40
+        },
+        {
+            "name": "Ali Al-Bulaihi",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Mohammed Al-Owais",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Uruguay": [
+        {
+            "name": "Darwin Núñez",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 25
+        },
+        {
+            "name": "Federico Valverde",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 55
+        },
+        {
+            "name": "Facundo Pellistri",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 50
+        },
+        {
+            "name": "Ronald Araújo",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 15
+        },
+        {
+            "name": "Sergio Rochet",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "France": [
+        {
+            "name": "Kylian Mbappé",
+            "position": "FW",
+            "score_weight": 75,
+            "assist_weight": 40
+        },
+        {
+            "name": "Antoine Griezmann",
+            "position": "MF",
+            "score_weight": 50,
+            "assist_weight": 65
+        },
+        {
+            "name": "Aurélien Tchouaméni",
+            "position": "MF",
+            "score_weight": 25,
+            "assist_weight": 50
+        },
+        {
+            "name": "Theo Hernández",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 45
+        },
+        {
+            "name": "Mike Maignan",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Senegal": [
+        {
+            "name": "Sadio Mané",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 45
+        },
+        {
+            "name": "Ismaïla Sarr",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 35
+        },
+        {
+            "name": "Idrissa Gueye",
+            "position": "MF",
+            "score_weight": 20,
+            "assist_weight": 50
+        },
+        {
+            "name": "Kalidou Koulibaly",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 15
+        },
+        {
+            "name": "Édouard Mendy",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Norway": [
+        {
+            "name": "Erling Haaland",
+            "position": "FW",
+            "score_weight": 80,
+            "assist_weight": 15
+        },
+        {
+            "name": "Martin Ødegaard",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 70
+        },
+        {
+            "name": "Alexander Sørloth",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 25
+        },
+        {
+            "name": "Leo Østigård",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 15
+        },
+        {
+            "name": "Ørjan Nyland",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Iraq": [
+        {
+            "name": "Aymen Hussein",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 20
+        },
+        {
+            "name": "Ali Jasim",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 50
+        },
+        {
+            "name": "Amir Al-Ammari",
+            "position": "MF",
+            "score_weight": 25,
+            "assist_weight": 45
+        },
+        {
+            "name": "Rebin Sulaka",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 15
+        },
+        {
+            "name": "Jalal Hassan",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Argentina": [
+        {
+            "name": "Lionel Messi",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 70
+        },
+        {
+            "name": "Julián Álvarez",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 35
+        },
+        {
+            "name": "Enzo Fernández",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 60
+        },
+        {
+            "name": "Cristian Romero",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 15
+        },
+        {
+            "name": "Emiliano Martínez",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Algeria": [
+        {
+            "name": "Riyad Mahrez",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 60
+        },
+        {
+            "name": "Islam Slimani",
+            "position": "FW",
+            "score_weight": 55,
+            "assist_weight": 20
+        },
+        {
+            "name": "Ismaël Bennacer",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 65
+        },
+        {
+            "name": "Ramy Bensebaini",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 35
+        },
+        {
+            "name": "Anthony Mandrea",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Austria": [
+        {
+            "name": "Marko Arnautović",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 30
+        },
+        {
+            "name": "Marcel Sabitzer",
+            "position": "MF",
+            "score_weight": 50,
+            "assist_weight": 55
+        },
+        {
+            "name": "Konrad Laimer",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 45
+        },
+        {
+            "name": "David Alaba",
+            "position": "DF",
+            "score_weight": 25,
+            "assist_weight": 50
+        },
+        {
+            "name": "Patrick Pentz",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Jordan": [
+        {
+            "name": "Musa Al-Taamari",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 45
+        },
+        {
+            "name": "Yazan Al-Naimat",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 30
+        },
+        {
+            "name": "Ali Olwan",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 40
+        },
+        {
+            "name": "Yazan Al-Arab",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 15
+        },
+        {
+            "name": "Yazeed Abulaila",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Portugal": [
+        {
+            "name": "Cristiano Ronaldo",
+            "position": "FW",
+            "score_weight": 70,
+            "assist_weight": 30
+        },
+        {
+            "name": "Bruno Fernandes",
+            "position": "MF",
+            "score_weight": 50,
+            "assist_weight": 70
+        },
+        {
+            "name": "Bernardo Silva",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 60
+        },
+        {
+            "name": "Rúben Dias",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 20
+        },
+        {
+            "name": "Diogo Costa",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Uzbekistan": [
+        {
+            "name": "Eldor Shomurodov",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 25
+        },
+        {
+            "name": "Jaloliddin Masharipov",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 55
+        },
+        {
+            "name": "Otabek Shukurov",
+            "position": "MF",
+            "score_weight": 30,
+            "assist_weight": 45
+        },
+        {
+            "name": "Rustam Ashurmatov",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 15
+        },
+        {
+            "name": "Utkir Yusupov",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Colombia": [
+        {
+            "name": "Luis Díaz",
+            "position": "FW",
+            "score_weight": 65,
+            "assist_weight": 45
+        },
+        {
+            "name": "James Rodríguez",
+            "position": "MF",
+            "score_weight": 45,
+            "assist_weight": 65
+        },
+        {
+            "name": "Jhon Arias",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 50
+        },
+        {
+            "name": "Davinson Sánchez",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 15
+        },
+        {
+            "name": "Camilo Vargas",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Congo DR": [
+        {
+            "name": "Yoane Wissa",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 30
+        },
+        {
+            "name": "Chancel Mbemba",
+            "position": "DF",
+            "score_weight": 30,
+            "assist_weight": 20
+        },
+        {
+            "name": "Meschak Elia",
+            "position": "MF",
+            "score_weight": 40,
+            "assist_weight": 45
+        },
+        {
+            "name": "Arthur Masuaku",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 40
+        },
+        {
+            "name": "Lionel Mpasi",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "England": [
+        {
+            "name": "Harry Kane",
+            "position": "FW",
+            "score_weight": 70,
+            "assist_weight": 40
+        },
+        {
+            "name": "Jude Bellingham",
+            "position": "MF",
+            "score_weight": 55,
+            "assist_weight": 60
+        },
+        {
+            "name": "Bukayo Saka",
+            "position": "MF",
+            "score_weight": 50,
+            "assist_weight": 50
+        },
+        {
+            "name": "John Stones",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 25
+        },
+        {
+            "name": "Jordan Pickford",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Croatia": [
+        {
+            "name": "Andrej Kramarić",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 35
+        },
+        {
+            "name": "Luka Modrić",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 70
+        },
+        {
+            "name": "Mateo Kovačić",
+            "position": "MF",
+            "score_weight": 25,
+            "assist_weight": 50
+        },
+        {
+            "name": "Joško Gvardiol",
+            "position": "DF",
+            "score_weight": 20,
+            "assist_weight": 30
+        },
+        {
+            "name": "Dominik Livaković",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Ghana": [
+        {
+            "name": "Mohammed Kudus",
+            "position": "MF",
+            "score_weight": 55,
+            "assist_weight": 45
+        },
+        {
+            "name": "Inaki Williams",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 25
+        },
+        {
+            "name": "Jordan Ayew",
+            "position": "FW",
+            "score_weight": 45,
+            "assist_weight": 40
+        },
+        {
+            "name": "Alexander Djiku",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 15
+        },
+        {
+            "name": "Lawrence Ati-Zigi",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ],
+    "Panama": [
+        {
+            "name": "José Fajardo",
+            "position": "FW",
+            "score_weight": 60,
+            "assist_weight": 20
+        },
+        {
+            "name": "Adalberto Carrasquilla",
+            "position": "MF",
+            "score_weight": 35,
+            "assist_weight": 60
+        },
+        {
+            "name": "Ismael Díaz",
+            "position": "FW",
+            "score_weight": 50,
+            "assist_weight": 30
+        },
+        {
+            "name": "Andrés Andrade",
+            "position": "DF",
+            "score_weight": 15,
+            "assist_weight": 25
+        },
+        {
+            "name": "Orlando Mosquera",
+            "position": "GK",
+            "score_weight": 1,
+            "assist_weight": 2
+        }
+    ]
+}
